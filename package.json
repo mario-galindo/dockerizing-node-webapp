@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git://github.com/mario-galindo/dockerizing-node-webapp.git"
   },
+  "license": "MIT",
   "scripts": {
     "start": "node server.js"
   },
