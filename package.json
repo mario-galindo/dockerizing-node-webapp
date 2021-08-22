@@ -4,6 +4,10 @@
   "description": "Node.js on Docker",
   "author": "Mario Galindo mgalindo@devinhn.com",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mario-galindo/dockerizing-node-webapp.git"
+  },
   "scripts": {
     "start": "node server.js"
   },
